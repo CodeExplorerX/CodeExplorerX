@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**CodeExplorerX/CodeExplorerX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+~~~
+Hey Guys 👋
 
-Here are some ideas to get you started:
+I am an eternal dreamer, always ready for new adventures and challenges ✨.
+My passion for Linux has opened the doors to a world of fascinating technologies and limitless possibilities 🐧.
+One of my goals is to make the internet accessible to every person, and I sincerely believe that it is possible 🌐
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+~ 💚 Dreamer, optimist 
+~ ✨ Perfectionist
+~ 🧑‍💻 Developer
+
+~~~~
+
+
+
